@@ -1,0 +1,11 @@
+Explicacion
+
+Objetos: Un objeto es un una coleccion de propiedades que responden a este ordenadas por clave:valor (propiedad y su contenido).
+
+Propiedades: Son caracteristica que estan asignadas a un objeto. Por ejemplo un nombre, un color, forma, etc.
+
+Metodos: Los metodos son funciones asignadas al valor de una clave. Esto permite que al ser invocada el objeto ejecute dicha funcion.
+
+Bucle: A veces los valores de las claves son arrays y este bucle "for in" nos permite recorrer el valor asignado a la esta. Por ejemplo si tenemos una clave "hobbies" y en valor un array como este ["futbol","musica","bicicleta"] con el bucle podriamos recorrerlo.
+
+Notación de puntos vs notación de corchetes: La notación por puntos es mucho más rápida de typear, pero si estamos frente a un valor ¨array¨ y queremos seleccionar alguno de los elementos que contiene o cambiar alguno es necesario hacerlo con la notación de brackets.
