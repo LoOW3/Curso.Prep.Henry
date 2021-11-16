@@ -1,0 +1,3 @@
+Explicacion 
+
+Array:	Un array es una coleccion de datos que se guardan bajo un mismo nombre. Dentro de este, cada dato tiene una posición única a la cual podemos acceder para lectura, intercambio de datos, o para trabajar con estos.
