@@ -1,0 +1,9 @@
+Explicacion
+
+For: Es un bucle que nos permite recorrer una n cantidad de veces lo que nosotros querramnos. Podemos utilizarlo para seleccionar, analizar o leer uno por uno elementos de una lista, matriz, string, etc.
+
+&&: Es un operador logíco (el "y") que trabaja con sentencias y devuelve true siempre y cuando todas las sentencias involucradas sean verdaderas.
+
+||:Es un operador logico (el "o") que trabaja con sentencias y devuelve true siempre y cuando alguna de las sentencias involucradas sea verdadera.
+
+!: Es un operador logico de negacion. Devuelve el valor contrario al que la sentencia de por si puede darnos.

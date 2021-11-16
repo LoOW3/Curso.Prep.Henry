@@ -1,0 +1,6 @@
+Explicacion
+
+Variables: Una variable lugar de memoria en el que almacenamos tipos de datos y les damos el nombre que nosotros querramos. Ej: Si por alguna razon debemos escribir una frase muchas veces seguidas en diferentes lugares podemos asignarle un nombre (var a : frase;) para ahorrarnos tiempo.
+Strings: Es una cadena de caracteres (con o sin sentido aparente) que esta escrita entre comillas.
+Funciones: Las funciones son maneras que tenemos para automatizar acciones, por ejemplo una suma de numeros.
+Booleanos: Es la forma que tenemos para decir si algo es verdadero o falso y actuar en consecuencia.
