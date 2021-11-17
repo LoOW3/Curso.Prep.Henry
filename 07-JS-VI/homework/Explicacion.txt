@@ -1,0 +1,3 @@
+Explicacion
+
+Callbacks:	Las callbacks son funciones que son pasadas como argumentos en otra funcion, para utilizarlas dentro de esta y no repetir codigo.
