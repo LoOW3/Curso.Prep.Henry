@@ -1,0 +1,5 @@
+Explicacion
+
+Prototype: Es la manera en la que definimos un método en una Clase para no estar copiando codigo en cada objeto que creemos referente a esta. Una vez hecho el prototype y creado un objeto podemos acceder al metodo haciendo uso de | objeto.metodo(); |.
+
+Constructores:  son conjuntos de clave:valor y metodos que pueden heredar de otro sus mismas caracteristicas.
